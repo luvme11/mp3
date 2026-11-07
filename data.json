@@ -45,5 +45,23 @@
         "@meowmoon 단테, 마티스"
       ]
     }
-  }
+  },
+  "banners": [
+    {
+      "img": "images/1794036794056.png",
+      "link": "https://x.com/noxmeluv"
+    },
+    {
+      "img": "images/1794036848813.png",
+      "link": ""
+    },
+    {
+      "img": "images/1794037161640.png",
+      "link": "https://luvme11.github.io/seven0209/"
+    },
+    {
+      "img": "images/1794037332912.png",
+      "link": "https://luvme11.github.io/chanhee1/"
+    }
+  ]
 }
