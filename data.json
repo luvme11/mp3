@@ -1,0 +1,36 @@
+{
+  "tracks": [
+    {
+      "title": "Shadow",
+      "artist": "Middlepot",
+      "plist": "Extra Musics",
+      "src": "",
+      "cover": ""
+    }
+  ],
+  "pages": {
+    "prev": {
+      "title": "About",
+      "lines": [
+        "## 기본",
+        "여기에 About 내용을 적어주세요.",
+        "## 성향",
+        "성향글을 ==한 줄씩== 적어주세요. ==p:분홍 형광펜==도 돼요."
+      ]
+    },
+    "next": {
+      "title": "NG",
+      "lines": [
+        "## NG",
+        "여기에 NG 내용을 적어주세요."
+      ]
+    },
+    "pp": {
+      "title": "Like",
+      "lines": [
+        "## Like",
+        "여기에 내용을 적어주세요."
+      ]
+    }
+  }
+}
